@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1598367579 source:d:\bruno\햞ea de trabalho\atividade_ed\lista_encadeada\funcoes.cpp
+	<iostream>
+	<string.h>
+	<math.h>
+	<iomanip>
+	"funcoes.h"
+
+1598356997 source:d:\bruno\햞ea de trabalho\atividade_ed\lista_encadeada\main.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	"funcoes.h"
+
+1598367875 d:\bruno\햞ea de trabalho\atividade_ed\lista_encadeada\funcoes.h
+
+1598104412 d:\bruno\햞ea de trabalho\atividade_ed\lista_encadeada\funcoes.cpp
+	<iostream>
+
+1598367579 source:d:\bruno\햞ea de trabalho\atividade_ed\ex_rotas_19118\funcoes.cpp
+	<iostream>
+	<string.h>
+	<math.h>
+	<iomanip>
+	"funcoes.h"
+
+1598367875 d:\bruno\햞ea de trabalho\atividade_ed\ex_rotas_19118\funcoes.h
+
+1598356997 source:d:\bruno\햞ea de trabalho\atividade_ed\ex_rotas_19118\main.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	"funcoes.h"
+
